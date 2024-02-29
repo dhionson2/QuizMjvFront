@@ -1,0 +1,71 @@
+.tela {
+    width: 500px;
+    margin: 20px auto;
+    height: 600px;
+    background: #ffffff;
+    border-radius: 20px;
+    top: 196px;
+    left: 519px;
+    width: 881px;
+    height: 953px;
+    border: 2px solid #8B1F9C63; 
+    border-radius: 10px; 
+  }
+  .bg {
+    background-image: linear-gradient(to bottom,  #8B1F9C63,#6E626F33);
+  }
+  .input-form {
+    background: var(--unnamed-color-f2e3f5) 0% 0% no-repeat padding-box;
+    background: #F2E3F5 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 16px;
+    opacity: 1;
+    margin-left: 20px;
+    width: 500px;
+    height: 46px;
+    margin: 20px;
+  }
+  .label-from {
+    color: var(--unnamed-color-928d8d);
+    text-align: center;
+    font: normal normal bold 22px/32px Roboto;
+    letter-spacing: 0px;
+    color: #928D8D;
+    opacity: 1;
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 300px;
+    border: 2px solid #8B1F9C63; /* largura, estilo e cor da borda */
+    border-radius: 10px; /* opcional: define um raio para tornar a borda circular */
+}
+.labeltext {
+    color: var(--unnamed-color-60489d);
+    text-align: center;
+    font: normal normal medium 60px/66px Ubuntu;
+    letter-spacing: 0px;
+    text-shadow: 0px 3px 8px #00000029;
+    opacity: 1;
+    font-size: 32px;
+    font: normal normal bold 22px/32px;
+    color: #8B1F9C63;
+}
+
+.buttonCriarConta {
+    border: 3px solid var(--unnamed-color-60489d);
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 3px solid #60489D;
+    opacity: 1;
+    color: #60489D;
+    text-align: center;
+    margin: auto;
+    width: 300px;
+    border-radius: 20px;
+}
+
+.container-btn {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    margin: 40px;
+  }
+  

@@ -1,0 +1,64 @@
+.sobre {
+    background-color: #f5f5f5;
+    padding: 20px;
+  }
+  
+  .sobre-titulo {
+    text-align: center;
+  }
+  
+  .sobre-titulo h1 {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .sobre-texto {
+    text-align: justify;
+  }
+  
+  .sobre-oferecemos {
+    margin-top: 20px;
+  }
+  
+  .sobre-oferecemos h2 {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .sobre-oferecemos ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .sobre-oferecemos li {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .sobre-icone {
+    font-size: 16px;
+    margin-right: 10px;
+    color: #009900;
+  }
+  
+  .sobre-chamada {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .sobre-chamada h2 {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .sobre {
+    background-color: #f5f5f5;
+    padding: 20px;
+    color: #363333;
+    font-size: large;
+  }
+  .bg {
+    background-image: linear-gradient(to bottom,  #8B1F9C63,#6E626F33);
+  }

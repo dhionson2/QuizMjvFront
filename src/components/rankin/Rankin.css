@@ -1,0 +1,56 @@
+.ranking {
+    width: 500px;
+    margin: 20px auto;
+    height: 600px;
+    background: #8B1F9C63;
+    border-radius: 20px;
+  }
+  
+  .header-ranking {
+    background-color: #60489D;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    border-radius: 20px;
+  }
+  
+  .body {
+    border: 1px solid #ccc;
+  }
+  
+  .player {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .position {
+    width: 50px;
+    text-align: right;
+  }
+  
+  .name {
+    flex: 1; /* Ocupa o espaço restante */
+    padding-left: 10px;
+  }
+  
+  .score {
+    width: 100px;
+    text-align: right;
+  }
+  .bg{
+    background-image: linear-gradient(to bottom,  #8B1F9C63,#6E626F33);
+  }
+  .circle {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%; /* Torna o elemento um círculo */
+    background-color: #333; /* Cor de fundo do círculo */
+    color: #fff; /* Cor do texto dentro do círculo */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  

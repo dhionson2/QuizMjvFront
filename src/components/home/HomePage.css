@@ -1,0 +1,51 @@
+.container-home {
+    background-image: linear-gradient(to bottom,  #8B1F9C63,#6E626F33);
+  }
+  .hello-message {
+    position: absolute;
+    top: 185px;
+    left: 720px;
+    width: 658px;
+    height: 69px;
+    text-align: center;
+    font: normal normal medium 90px/66px Ubuntu;
+    font-size: 66px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-shadow: 0px 3px 8px #00000029;
+    opacity: 1;
+  }
+  .message {
+    position: absolute;
+    top: 300px;
+    left: 720px;
+    width: 658px;
+    height: 69px;
+    text-align: center;
+    font: normal normal medium 90px/66px Ubuntu;
+    font-size: 30px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-shadow: 0px 3px 8px #00000029;
+    opacity: 1;
+  }
+  .buttonCriarConta {
+    border: 3px solid var(--unnamed-color-60489d);
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 3px solid #60489D;
+    opacity: 1;
+    color: #60489D;
+    text-align: center;
+    width: 300px;
+    border-radius: 20px;
+    margin-top: 520px
+}
+
+.btn-div {
+
+  margin-left: 90px;
+  margin-top: 520px
+}
+
+  
+  
